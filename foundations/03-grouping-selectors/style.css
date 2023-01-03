@@ -1,0 +1,13 @@
+.attract,
+.argue {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.attract {
+    background-color: black;
+    color: #ffffff;
+}
+.argue{
+    background-color: hsl(59, 100%, 50%);
+}
