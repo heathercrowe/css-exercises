@@ -1,0 +1,16 @@
+.odd {
+    background-color: rgb(240, 156, 156);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.med {
+    font-size: 24px;
+}
+#papa-smurf {
+    color: rgb(0, 33, 199);
+    font-size: 36px;
+}
+#grinch {
+    background-color: rgb(89, 255, 89);
+    font-weight: bold;
+}
